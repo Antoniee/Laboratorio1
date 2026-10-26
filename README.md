@@ -13,3 +13,4 @@ Para ejecutar el análisis completo, use el siguiente comando en la terminal:
 
 ## Enlaces
 - [Informe del Laboratorio](./Informe.md) 
+- **Commit Evaluable:* `0f8446c` 
