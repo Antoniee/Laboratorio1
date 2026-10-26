@@ -1,0 +1,1 @@
+grep: archivo_fantasma.txt: No such file or directory

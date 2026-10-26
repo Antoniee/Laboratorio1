@@ -1,0 +1,4 @@
+sensor_b temperatura 20.4 C
+sensor_b estado estable
+sensor_b temperatura 20.4 C
+sensor_b estado estable
