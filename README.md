@@ -1,4 +1,4 @@
-# Laboratorio 1: Estación Reproducible
+# Laboratorio 1: Estación De Trabajo Reproducible
 
 ## Requisitos y Versiones
 - Ubuntu (Bash)
