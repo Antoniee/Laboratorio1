@@ -15,3 +15,9 @@
 **Redirección de salida normal (`1>>`):**  Este comando toma la salida estándar  de un comando y la anexa al final del archivo especificado, sin borrar ni sobrescribir su contenido  anterior. 
 
 **Redirección de errores (`2>>`):** Este comando captura  aisladamente los mensajes de error (descriptor 2) y los aneza a una archivo de registro, lo cual evita que se mezclen con los reultados corectos  al visualizarse en la pantalla.
+
+## 2. Diferencias Fundamentales 
+
+-** `bash archivo.sh` y  `./archivo.sh`:** El primer comando le pide directamente a Bash que interprete el archivo ( no requiere permisos especiales). El segundo comando intenta ejecutar  directa e independientemente, por lo que exige estrictamente que el archivo tenga permisos de ejecución como los dados por (`chmod u+x).
+
+-**
