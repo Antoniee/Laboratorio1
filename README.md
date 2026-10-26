@@ -12,5 +12,4 @@ Para ejecutar el análisis completo, use el siguiente comando en la terminal:
 ```
 
 ## Enlaces
-- [Informe del Laboratorio](./informe.md) (Pendiente de redactar)
-- Enlace al video de YouTube (Pendiente)
+- [Informe del Laboratorio](./Informe.md) 
